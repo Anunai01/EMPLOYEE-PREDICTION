@@ -2,13 +2,7 @@
 
 📌 Project Overview
 
-This project leverages Machine Learning to predict employee performance based on key features. It implements Linear Regression, Random Forest, and XGBoost models, evaluates their performance, and selects the best one for deployment.
-
-👥 Contributors
-
-Niteesh Kumar - Data collection & Visualizing & Model Building
-
-Jyoti Yadav  -  Data Pre-processing & Application Building.
+This project leverages Machine Learning to predict employee performance based on key features. It implements Linear Regression, Random Forest, and XGBoost models, evaluates their performance, and selects the best one for deployment
 
 
 🚀 Features
